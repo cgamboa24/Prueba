@@ -1,0 +1,16 @@
+{
+  "generator-bbb": {
+    "name": "prueba",
+    "testFramework": "qunit",
+    "moduleStyle": "amd",
+    "indent": {
+      "style": "tab",
+      "size": 1
+    },
+    "paths": {
+      "base": ".",
+      "tests": "test",
+      "modules": "app/modules"
+    }
+  }
+}
